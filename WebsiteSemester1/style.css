@@ -1,0 +1,17 @@
+body {
+    margin: 10%;
+}
+
+div {
+    height: 10%;
+    border: 1px solid white;
+}
+
+.somenamethatisntusedalr {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    margin-left: 15px;
+    width: 200px;
+}
+
